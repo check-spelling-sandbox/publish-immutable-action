@@ -1,0 +1,17 @@
+APIURL
+autobuild
+CODEOWNERS
+cwd
+dsse
+ecma
+filemetadata
+ghe
+hashfile
+monalisa
+opencontainers
+retryable
+revparse
+sigstore
+versioning
+vnd
+workflows
